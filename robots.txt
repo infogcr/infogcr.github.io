@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://infogcr.github.io/sitemap.xml
